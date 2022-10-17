@@ -1,4 +1,2 @@
 # Calculus-Final-Project
-I should probably explain this but it's my junior project for my ap calc class.
-I coded it in a whole weekend so that's fun.
-That's basically it man.
+This game was made for a final project for calculus. The premise of the game is that you are a new student going into highschool and to make sure you're prepared for calculus class, various students and teachers will quiz you on calculus facts. If you get them all right you win and get an A+ but if you get something wrong you fail. This is meant to be a simple game that helps students review core calculus knowledge in a fun and engaging way. Built using python and pygame. The art was all created by me in pixilart.com.
